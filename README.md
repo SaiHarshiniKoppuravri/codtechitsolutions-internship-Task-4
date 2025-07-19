@@ -7,4 +7,4 @@
 ## Project Name
 ### Machine learning model implementation-spam email detection
 ## output
-###
+### <img width="860" height="253" alt="image" src="https://github.com/user-attachments/assets/dcd33bc2-c159-478a-80ca-58a8ad54ae04" />
